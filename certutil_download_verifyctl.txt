@@ -1,0 +1,1 @@
+POCZĄTEK pobranego pliku txt certutil_download_verifyctl
